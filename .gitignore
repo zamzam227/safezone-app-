@@ -1,0 +1,9 @@
+# Data sensitif: jangan pernah di-commit
+data/
+*.db
+*.db-wal
+*.db-shm
+uploads/
+__pycache__/
+*.pyc
+.env
